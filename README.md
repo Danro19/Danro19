@@ -28,25 +28,7 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql,java,html,css,tailwind,git,github,vscode" alt="Tech Stack" />
 </div>
 
-<details>
-  <summary><h3>🔥 Mis Habilidades Técnicas (Click para expandir)</h3></summary>
-  <div align="center">
-    <h4>💻 Lenguajes de Programación</h4>
-    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black&color=3776AB"/>
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black&color=F7DF1E"/>
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=ED8B00"/>
-    
-    <h4>🗄️ Bases de Datos</h4>
-    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=4479A1"/>
-    <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=07405E&labelColor=black&color=07405E"/>
-    
-    <h4>🎨 Frontend</h4>
-    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black&color=E34F26"/>
-    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=black&color=38B2AC"/>
-    <img src="https://img.shields.io/badge/Bulma-000000?style=for-the-badge&logo=bulma&logoColor=00D1B2&labelColor=black&color=00D1B2"/>
-  </div>
-</details>
+
 
 ---
 
